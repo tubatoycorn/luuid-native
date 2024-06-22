@@ -1,6 +1,6 @@
 # LUUID Native
 
-LUUID Native is a pure Lua library for generating UUIDs (Universally Unique Identifiers) with no external dependencies. It supports various UUID versions including time-based, DCE Security, and random UUIDs.
+LUUID Native is a pure Lua library for generating UUIDs (Universally Unique Identifiers) with minimal external dependencies. It supports various UUID versions including time-based, DCE Security, and random UUIDs.
 
 ## Table of Contents
 
