@@ -1,4 +1,6 @@
-MIT License
+MIT License with Non-Commercial Clause
+
+Copyright (c) 2024 tubatoycorn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,4 +22,14 @@ SOFTWARE.
 
 Non-Commercial Clause:
 
-Permission is granted to use the Software for personal, non-commercial use only. Any commercial use of the Software is strictly prohibited.
+The above copyright notice and permission notice shall be subject to the following 
+additional restrictions:
+
+1. Commercial use of the Software is strictly prohibited without explicit written 
+   permission from the copyright holder.
+2. "Commercial use" means any use of the Software intended for or directed towards 
+   commercial advantage or monetary compensation.
+3. Personal and educational use of the Software is permitted, provided it complies 
+   with all other terms of this license.
+
+For commercial licensing inquiries, please contact tubatoycorn.
